@@ -1,3 +1,19 @@
 body {
-    background-color: skyblue;
+    background-color: whitesmoke;
+}
+
+.login-form {
+    width: 20em;
+}
+
+.btn {
+    width: 100%;
+}
+
+.security-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
 }
